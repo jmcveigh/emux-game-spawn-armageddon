@@ -4,7 +4,7 @@ This is the game Spawn, Armageddon for win_x64.
 ## Additional Requirements
 Please download this data file set from Jason McVeigh's homepage. Please download this data file set then extract to the application folder. These files are stored outside of GitHub due to GitHub's 100MB filesize limit.
 
-[spawn-armageddon-roms.zip from Jason McVeigh's homepage](http://jmcveigh.gsc-orillia.org/downloads/spawn-argmageddon-roms.zip)
+[spawn-armageddon-roms.zip from Jason McVeigh's homepage](http://jmcveigh.gsc-orillia.org/downloads/spawn-armageddon-roms.zip)
 
 ## Pictures
 ![Nintendo Gamecube Box Art, Front and Back](http://i.imgur.com/ZMclJCV.jpg)
