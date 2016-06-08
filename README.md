@@ -30,7 +30,10 @@ Various characters from the Spawn comic book are featured in the game:
 - Malebolgia — the one who made a deal with Al Simmons so he could see his beloved wife again. He and his sister, Goddess are preparing their war known as Armageddon by using both good and evil souls on Gazer itself. He also sent the Violator to Gazer to bring Spawn into the path of darkness.
 - Goddess — the one who caused that green beam as signal for the army of souls and angels to attack Malebolgia and his forces of Hell itself. She allows the Star Hive to watch Spawn himself. She and her brother Malebolgia have begun their war now.
 
+This is a completed works, in part, by Jason McVeigh of General Software Contracting and the Linux User Group in Orillia, ON, CA.
+
 Made with ♥ by [Jason McVeigh](mailto:jmcveigh@outlook.com) of General Software Contracting
 
 _I ♥ what I do and I hope you do too!_
+
 [This application is released under the Creative Commons Zero 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/)
